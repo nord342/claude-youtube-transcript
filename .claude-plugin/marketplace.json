@@ -3,6 +3,9 @@
   "owner": {
     "name": "nord342"
   },
+  "metadata": {
+    "description": "Fetch YouTube video transcripts locally in Claude Code via yt-dlp + browser cookies. No API key; reliably beats YouTube bot checks."
+  },
   "plugins": [
     {
       "name": "youtube-transcript",
