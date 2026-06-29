@@ -1,0 +1,18 @@
+{
+  "name": "youtube-transcript",
+  "description": "Paste a YouTube link into Claude Code and get the full transcript locally via yt-dlp + browser cookies. No API key, beats YouTube bot checks.",
+  "version": "1.0.0",
+  "author": {
+    "name": "nord342"
+  },
+  "homepage": "https://github.com/nord342/claude-youtube-transcript",
+  "repository": "https://github.com/nord342/claude-youtube-transcript",
+  "license": "MIT",
+  "keywords": [
+    "youtube",
+    "transcript",
+    "subtitles",
+    "captions",
+    "yt-dlp"
+  ]
+}

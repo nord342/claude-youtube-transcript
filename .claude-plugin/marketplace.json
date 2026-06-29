@@ -1,0 +1,13 @@
+{
+  "name": "claude-youtube-transcript",
+  "owner": {
+    "name": "nord342"
+  },
+  "plugins": [
+    {
+      "name": "youtube-transcript",
+      "source": "./plugins/youtube-transcript",
+      "description": "Paste a YouTube link into Claude Code and get the full transcript locally via yt-dlp + browser cookies. No API key, beats YouTube bot checks."
+    }
+  ]
+}
